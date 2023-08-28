@@ -1,3 +1,4 @@
+# Calculator
 1. Purpose: The primary purpose of a calculator repository is to provide a space for developers to work on calculator-related software projects. This could include creating various types of calculators, such as scientific, simple arithmetic, financial, or programming calculators.
 
 2. Source Code: The heart of the repository is the source code that makes up the calculator application. This code can be written in various programming languages, such as JavaScript, HTML, Css language.
